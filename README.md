@@ -25,7 +25,9 @@ This workshop is split into five modules. The modules are as follows:
 
 Each module builds on top of the last one, and by the end you'll have a fully
 working web application. I encourage you to watch the workshop and follow along
-for additional context.
+for additional context. Feel free to do on your own, or follow along with this YouTube video:
+
+https://www.youtube.com/watch?v=YI3l8uTkZuc
 
 If you have any questions or feedback, feel free to create an Issue or PR in
 this repo or reach out to me on
